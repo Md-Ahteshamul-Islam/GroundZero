@@ -31,7 +31,7 @@ export default function ChatGPTPage() {
   return (
     <div className="space-y-4">
       <h1 className="text-3xl font-bold">ChatGPT</h1>
-      <p className="text-gray-700">Type a message and get a response from OpenAI's ChatGPT.</p>
+      <p className="text-gray-700">Type a message and get a response from OpenAI&apos;s ChatGPT.</p>
 
       <textarea
         className="w-full p-4 border rounded-md resize-none"
