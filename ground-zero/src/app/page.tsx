@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <section className="space-y-6">
-      <h1 className="text-4xl font-bold">I&apos;m Ahtesham 👋</h1>
+      <h1 className="text-4xl font-bold">This is Ahtesham 👋</h1>
       <p className="text-lg text-gray-800">
         Senior Software Engineer | AI Explorer | Future DevOps Pro
       </p>
